@@ -1,1 +1,3 @@
-print("Hello, my name is Michael.")
+name = input()
+
+print("Hello, " + name + ", welcome to my repository!")
